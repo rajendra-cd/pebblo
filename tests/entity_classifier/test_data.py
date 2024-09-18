@@ -1,10 +1,11 @@
+#NOSONAR
 input_text1 = """
 Sachin's SSN is 222-85-4836.
 ITIN number 993-77 0690
 His AWS Access Key is: AKIAQIPT4PDORIRTV6PH.
 And Github Token is: ghp_hgu657yiujgwfrtigu3ver238765tyuhygvtrder6t7gyvhbuy5e676578976tyghy76578uygfyfgcyturtdf 
 """ #NOSONAR
-
+#NOSONAR
 input_text2 = """
 Content
 "Wipros board on Friday, January 12 announced an interim dividend of Re 1 per equity share of the face value of Rs 2 each, i.e., a 50 per cent payout for the current financial year along with financial results for the October-December period of the company for the financial year ending March 2024."
